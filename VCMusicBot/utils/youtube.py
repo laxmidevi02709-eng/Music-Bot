@@ -2,7 +2,8 @@
 import os
 import asyncio
 import yt_dlp
-from youtubesearchpython import VideosSearch
+from youtubesearchpython2 import VideosSearch
+
 
 from VCMusicBot import DOWNLOADS_DIR
 
